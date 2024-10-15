@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ShopeeCoinsCalc",
   "resources": {
-    "hash": "sha256-8inyR1o87woN79dpWlf4W7tZr3VTQbwL2mYLuSdmF9Y=",
+    "hash": "sha256-9i4keJ5/3TAYwlG03i8YZFcdV8gEqG7dzD35tyPbf2U=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -33,7 +33,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-xyqqv0SMCahnrOs+p5QYDHoh/BAYlbNtyjTTpqmRW/g=",
       "Microsoft.JSInterop.wasm": "sha256-5c2PIWbfAlfSBjT2PtAaUMxTc3Hw7wffdis6m3+smF8=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-ntjPxPV6zxozx8TpyHxdn2BRZ8n4KbBXstLFa4nCukk=",
-      "ShopeeCoinsCalc.wasm": "sha256-t13gDvNexGkqkXwrdOxlvx821ho6nariUGzB9odianw=",
+      "ShopeeCoinsCalc.wasm": "sha256-Cf6jjQ2h8D5h4bdBaOcBxMJKz/iO57qzP4a0JILoSG8=",
       "System.Collections.Concurrent.wasm": "sha256-0DXsquLCrQNvLwevWNHyhyXmk5joo/nZAvFYpvtA6gw=",
       "System.Collections.wasm": "sha256-8aYgFOCb339HW7UcMlbVXXbSzO1v/NbT5PGKkUXdnXY=",
       "System.ComponentModel.wasm": "sha256-vzDUiQ2vJRdxGNQU0AMqyYgWCpTPKHBD/msuyp8h6vQ=",
